@@ -1,5 +1,5 @@
 ## Puzzle Examples (MVP)
-- **Alloy Lock vs. Alchemical Solvent: **
+- **Alloy Lock vs. Alchemical Solvent: **:
 - Setup: The Town Hall archive door (FUTURE) is sealed by a corrosion-proof alloy.
 - Goal: Open the archive.
 - Realm Rules Used: Crafting exists only in FANTASY; items keep state across realms; time flows slower in FANTASY.
