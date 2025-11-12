@@ -1,4 +1,4 @@
-#Market_Research.md#
+# Market_Research.md
 
 ## 0) תקציר קונספט
 - **ז’אנר/פורמט:** חקר־נרטיב ופאזלים ב־2D.
