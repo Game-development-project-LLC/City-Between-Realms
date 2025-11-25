@@ -1,7 +1,7 @@
 https://omerzshahar.itch.io/city-between-realms
 
 - UML:
-- [Download the UML](https://github.com/USER/REPO/blob/main/docs/Report.pdf](https://github.com/Game-development-project-LLC/City-Between-Realms/blob/main/Assets/Planning/UML_city_between_realms.pdf)
+- [Download the UML](https://github.com/Game-development-project-LLC/City-Between-Realms/blob/main/Assets/Planning/city-between-realms-UML.pdf)
 
 
 
